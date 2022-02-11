@@ -5,5 +5,5 @@
 <code>🧻 Current [project](PROJECT.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
-<code>💬 telegram: @Khristalll(https://telegram.me/your-nikname)</code>
+<code>💬 telegram: https://telegram.me/Khristalll</code>
 <code>📫 yaskulskahrystyna@gmail.com(mailto:your-email)</code>
